@@ -2,7 +2,7 @@
 This project is a signup page with mailchimp api.
 
 ### How to use
-`npm install @mailchimp/mailchimp_marketing express body parser`
+`npm install @mailchimp/mailchimp_marketing express body-parser`
 
 ### Usage Mailchimp api
 Sign up https://mailchimp.com/ then create api `.../account/client-key/`.
