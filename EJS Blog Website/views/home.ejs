@@ -3,12 +3,12 @@
     <p>
         <%= contentHome %>
     </p>
-    <% blogPosts.forEach((blogPost)=> { %>
+    <% posts.forEach((post)=> { %>
         <h1>
-            <%= blogPost.title %>
+            <%= post.title %>
         </h1>
         <p>
-            <%= blogPost.content %>
+            <%= post.content %>
         </p>
         <%}); %>
             <%- include("partials/footer") %>
