@@ -3,13 +3,13 @@ This file inculde Get & Post examples and BMI calculator.
 ### How to use
 `npm install express body-parser`
 ### Main Goal
-- Learning How to work Express module?
+- Learning how to work Express module?
 
 ## 2) Signup Project
 This project is a signup page with mailchimp api.
 
 ### Main Goal
-- Learning How to use api?
+- Learning how to use api?
 
 ### How to use
 `npm install @mailchimp/mailchimp_marketing express body-parser`
@@ -23,4 +23,10 @@ This project is a basic To Do List.
 ### How to use
 `npm install ejs express body-parser`
 ### Main Goal
-- Learning How to work EJS module?
+- Learning how to work EJS module?
+
+## 4) Mongoose Functs Example Project
+### How to use
+`$ npm install mongoose`
+### Main Goal
+- Learning how to use mongoose functions.
