@@ -27,6 +27,24 @@ This project is a basic To Do List.
 
 ## 4) Mongoose Functs Example Project
 ### How to use
-`$ npm install mongoose`
+`npm install mongoose`
 ### Main Goal
-- Learning how to use mongoose functions.
+- Learning how to use mongoose functions?
+
+## 5) Blog Website Project
+### How to use
+`npm install ejs express body-parser lodash mongoose`
+### Main Goal
+- Learning how to work EJS module, Express routing and use mongoose functions?
+
+## 6) Wiki API Example
+### How to use
+`npm install ejs express body-parser mongoose`
+### Main Goal
+- Build my RESTFul API from Scratch
+
+## 7) Authentication Security Example
+### How to use
+`npm install ejs express express-session body-parser dotenv mongoose passport passport-local-mongoose passport-google-oauth20 mongoose-findorcreate`
+### Main Goal
+- Learning how to use social login, cookies, sessions database encryption and hashing?
